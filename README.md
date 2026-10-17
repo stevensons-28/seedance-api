@@ -2,7 +2,7 @@
 
 Generate ByteDance **Seedance** videos from your own code with the [KreatorFlow API](https://kreatorflow.ai/seedance-api). One API key covers Seedance 2.5, Seedance 2.0, Seedance 2.0 Fast and Seedance 2.0 Mini, plus Seedream images and text to speech. You pay per second of video from prepaid tokens, with no subscription.
 
-KreatorFlow is an official BytePlus partner. It's built on BytePlus, ByteDance's official AI platform.
+KreatorFlow is an official partner of BytePlus, a ByteDance company.
 
 - **Get a key:** [developers.kreatorflow.ai](https://developers.kreatorflow.ai/?section=keys)
 - **Docs:** [developers.kreatorflow.ai/?section=docs](https://developers.kreatorflow.ai/?section=docs)
