@@ -139,7 +139,7 @@ Every code is explained in [Seedance API errors](https://kreatorflow.ai/guides/s
 
 **Is there a free Seedance API?** No provider offers a free production Seedance 2.0 or 2.5 API. On KreatorFlow you pay per second, and failed jobs cost nothing. See [Is there a free Seedance API?](https://kreatorflow.ai/guides/is-there-a-free-seedance-api).
 
-**Which Seedance model should I use?** Use Mini or Fast for drafts, Seedance 2.0 for cinematic shots up to 4K, and Seedance 2.5 for single takes up to 30 seconds. See [Seedance API tiers compared](https://kreatorflow.ai/guides/seedance-api-models-compared).
+**Which Seedance model should I use?** Use Mini or Fast for drafts, Seedance 2.0 for cinematic shots up to 4K, and Seedance 2.5 for single takes up to 30 seconds. See [Seedance API tiers compared](https://kreatorflow.ai/guides/seedance-api-models-compared) and [Seedance 2.0 Fast vs Mini](https://kreatorflow.ai/guides/seedance-2-fast-vs-mini).
 
 **What are the rate limits?** 20 video jobs a minute and 120 job polls a minute per developer account. See [Seedance API rate limits](https://kreatorflow.ai/guides/seedance-api-rate-limits).
 
@@ -148,6 +148,10 @@ Every code is explained in [Seedance API errors](https://kreatorflow.ai/guides/s
 ## More
 
 - [Seedance API quickstart guide](https://kreatorflow.ai/guides/seedance-api-quickstart)
+- [Seedance API in Python and Node.js: full tutorial](https://kreatorflow.ai/guides/seedance-api-python-node)
+- [Seedance 2.0 Fast vs Mini](https://kreatorflow.ai/guides/seedance-2-fast-vs-mini)
+- [Seedance pricing: every model, plan and API price](https://kreatorflow.ai/seedance-pricing)
+- [Seedance: every model and guide](https://kreatorflow.ai/seedance)
 - [AI video API webhooks](https://kreatorflow.ai/guides/ai-video-api-webhooks)
 - [KreatorFlow API blog](https://kreatorflow.ai/blog/api)
 
