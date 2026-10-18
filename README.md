@@ -52,6 +52,21 @@ Prices per second and per clip, with text or image input. They come from the Kre
 
 There's no subscription. Top-ups start at $20. A job that fails, is declined or times out costs nothing, because its reserved tokens go back to your balance. For a provider-by-provider comparison, with every price sourced and dated, see the [Seedance API price comparison](https://kreatorflow.ai/seedance-api-comparison).
 
+## Cheapest Seedance API at 720p and above
+
+At list prices, KreatorFlow is the cheapest of the 9 Seedance APIs we track (fal.ai, WaveSpeedAI, Higgsfield API, Replicate, Kie.ai, EvoLink, Atlas Cloud, Runware and Segmind) for Seedance 2.0 and 2.5 at 720p, 1080p and 4K. One 5 second clip, 16:9, text or image input:
+
+| Setting | KreatorFlow API | Next lowest we track | You pay less |
+| --- | --- | --- | --- |
+| Seedance 2.0, 720p | $0.55 | $0.76 (Segmind) | 27% |
+| Seedance 2.0, 1080p | $1.20 | $1.70 (Segmind) | 29% |
+| Seedance 2.0, 4K | $2.90 | $4.28 (Runware) | 32% |
+| Seedance 2.0 Fast, 720p | $0.45 | $0.65 (Runware) | 30% |
+| Seedance 2.5, 720p | $1.05 | $1.15 (Runware) | 8% |
+| Seedance 2.5, 1080p | $2.25 | $2.94 (Segmind) | 23% |
+
+Each provider's price was read on its own pricing or model page in October 2026; the [comparison page](https://kreatorflow.ai/seedance-api-comparison) links every source with its date and updates when prices change. At 480p, some providers list lower prices for some models, so we don't claim 480p. Price any clip with the [Seedance API calculator](https://kreatorflow.ai/seedance-api-calculator).
+
 ## Examples in this repository
 
 | File | What it does |
