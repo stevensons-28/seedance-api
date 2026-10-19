@@ -7,6 +7,7 @@ KreatorFlow is an official partner of BytePlus, a ByteDance company.
 - **Get a key:** [developers.kreatorflow.ai](https://developers.kreatorflow.ai/?section=keys)
 - **Docs:** [developers.kreatorflow.ai/?section=docs](https://developers.kreatorflow.ai/?section=docs)
 - **Prices and code for each model:** [kreatorflow.ai/seedance-api](https://kreatorflow.ai/seedance-api)
+- **SDKs:** Python and Node.js clients in [stevensons-28/seedance-sdk](https://github.com/stevensons-28/seedance-sdk)
 
 ## Quickstart
 
